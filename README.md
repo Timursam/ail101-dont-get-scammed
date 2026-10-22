@@ -4,7 +4,9 @@ A bilingual, playable digital literacy game built through an AI workflow connect
 
 ## Play / Играть
 
-The hosted preview is private to its owner. A portable copy of the game is included in this repository.
+**Play online / Играть:** https://timursam.github.io/ail101-dont-get-scammed/
+
+The public GitHub Pages version was opened and verified in a browser. A portable copy is also included in this repository.
 
 Download this repository and open `index.html` in a browser. No installation, API keys, server or build step is required. The game works offline with system fonts; its optional Google Fonts stylesheet needs an internet connection.
 
